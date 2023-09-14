@@ -1,0 +1,7 @@
+# Ignore node_modules directory
+/node_modules/
+
+# Ignore other commonly excluded files and directories
+.DS_Store
+.vscode/
+.idea/
